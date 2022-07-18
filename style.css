@@ -1,0 +1,20 @@
+
+
+ li{
+        color: green;
+
+ }
+
+
+ h1{
+
+        color: purple;
+
+  }
+
+  
+body{
+    background-image: url('https://www.spacex.com/static/images/backgrounds-2022/cosmo-skymed/pre-launch/DESKTOP_COSMO_HOMEPAGE.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
