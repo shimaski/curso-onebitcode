@@ -1,20 +1,19 @@
 
 
- li{
-        color: green;
+       li{
+              color: green;
+                     
+       }
 
- }
 
-
- h1{
-
-        color: purple;
-
-  }
+       h1{
+              color: purple;
+       }
 
   
-body{
-    background-image: url('https://www.spacex.com/static/images/backgrounds-2022/cosmo-skymed/pre-launch/DESKTOP_COSMO_HOMEPAGE.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+       body{
+              
+       background-image: url('https://s2.glbimg.com/oNb1wbkS3abJh8eBgdbuOFs7DKU=/0x0:2048x1365/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/N/bjIKHLQNiE2yAiNBWTtw/inspiration4spacexphotos-high-10-.jpg');
+       background-repeat: no-repeat;
+       background-size: cover;
+       }
