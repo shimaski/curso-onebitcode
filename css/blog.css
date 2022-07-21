@@ -1,0 +1,72 @@
+   /*   meu codigo 
+   
+   
+   body{
+        background-color: rgb(22, 218, 153);
+    }
+    
+    .post-container {
+        background-color: rgb(49, 5, 91);
+         color: rgb(228, 223, 153);
+        width: 80%;
+        margin: 0 auto 0   auto;
+        ;
+    }
+
+    .post{
+    padding: 50px;
+    }
+
+    h1{
+        font-family: "Montserrat", sans-serif;
+        color: aliceblue;
+    }
+
+    .date{
+
+        font-family: "Roboto",sans-serif;
+        color: #bbf9e3;
+    
+    }
+
+hr{
+
+  background-color: rgb(255, 246, 145); 
+  height: 2 px;
+}
+*/
+
+/* codigo do professor */
+
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.post-container{
+width: 70%;
+height: 95%;
+margin:0px auto 0px  auto ;
+background-color: #fffafa;
+}
+
+
+.post-container .date {
+    font-family: 'Roboto',sans-serif;
+    color: #008080;
+}
+
+
+.post-container div.post-content{
+    width: 90%;
+    font-family: 'Open-Sans', sans-serif;
+    font-weight:  normal;
+}
+
+.post-container .post{
+    margin-bottom: 50px ;
+    padding-top: 20px;
+    padding-left: 50px;
+}
